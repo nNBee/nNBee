@@ -28,7 +28,7 @@ Some areas I particularly enjoy:
 I'm actively exploring frontend testing — both conceptually and in practice.
 
 - 🧪 Unit & integration testing with **Vitest** and **React Testing Library**
-- 🧭 End-to-end testing with **Cypress**
+- 🧭 End-to-end & component testing with **Cypress**
 - 📐 Best practices for testable React components
 - ⚙️ Automating test workflows with GitHub Actions
 
