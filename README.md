@@ -56,7 +56,7 @@ I enjoy building scalable user interfaces, designing maintainable frontend archi
 
 ## ⚡ About Me
 
-- ⚖️ Started my career in law before transitioning into software development through self-directed learning.
+- ⚖️ I have a background in Labour Relations and transitioned into software development through self-directed learning.
 - 🚀 Enjoy building products from scratch as much as improving existing systems.
 - 🧩 Passionate about clean architecture, reusable components, and solving real-world problems.
 - 📚 Always learning and continuously improving as a software engineer.
